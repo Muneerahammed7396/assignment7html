@@ -1,0 +1,20 @@
+
+
+ .body{
+    position: center;
+    text-align: center;
+    background-color:cornflowerblue;
+    width: 600px;
+    height: 300px;
+
+}
+.h1{
+    position: center;
+    text-align: center;
+    color:black;
+    border: 1px;
+    width: 25px;
+    height: 25px;
+    background-color: cadetblue
+   
+};
